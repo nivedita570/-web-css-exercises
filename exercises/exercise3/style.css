@@ -1,6 +1,7 @@
-p {
+/* External CSS */
+.normal-text {
     font-family: 'Times New Roman', serif;
     font-size: 16pt;
+    color: black; 
     margin-bottom: 10px;
 }
-
